@@ -1,0 +1,17 @@
+{
+  "app_enabled": true,
+  "message": "The service is temporarily unavailable.",
+  "keys": {
+    "b5815decf04a64758e7557fd1d268aab9e6add8d41c0bf800a3bc22d990b5627": {
+      "name": "Test demo",
+      "type": "demo",
+      "active": true,
+      "expires": "2026-11-13"
+    },
+    "abb3ba964d846a36c37de8c5d2f2320e7bb65e3dbc40a1bc70abf757403f06d1": {
+      "name": "Owner (paid)",
+      "type": "paid",
+      "active": true
+    }
+  }
+}
